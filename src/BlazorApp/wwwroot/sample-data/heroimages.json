@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
+    "name": "한예준1",
     "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "alt": "arctic-tern-8703910_640.webp"
   },
   {
-    "name": "about",
+    "name": "한예준2",
     "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "alt": "bird-8763079_640.webp"
   },
   {
-    "name": "portfolio",
+    "name": "한예준3",
     "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "alt": "water-8228076_1280.webp"
   }
 ]
